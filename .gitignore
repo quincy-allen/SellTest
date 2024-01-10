@@ -1,0 +1,42 @@
+# .NET
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.aps
+*.xaml.cs
+*.vscode
+.vs
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+/SellUTest/bin/Debug/net7.0
+/SellUTest/obj
+/Sell.Infrastructure/bin/Debug/net7.0
+/Sell.Infrastructure/obj
+/Sell.Domain.Interfaces/bin/Debug/net7.0
+/Sell.Domain.Interfaces/obj
+/Sell.Domain.Implementation/bin/Debug/net7.0
+/Sell.Domain.Implementation/obj
+/Sell.Domain/obj
+/Sell.Domain/bin/Debug/net7.0
+/Sell.API/obj
+/Sell.API/bin/Debug/net7.0
